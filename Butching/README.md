@@ -34,4 +34,4 @@ this sections contains details on the features
  * Dropping a carcass will place it down
  * You can use a carcass as a shield, it will remain usable even after taking hits
 ### cooking
-* this is the structure to use to make a usable campfire: 
+* ![this is the structure to use to make a usable campfire:](https://github.com/Breakmit/Datapacks/blob/master/Butching/examples/campfire.png) 
