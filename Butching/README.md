@@ -29,6 +29,7 @@ from the game, you can modify a few things with these functions:
 * `/scoreboard players set #max btc.cook.timer X` set the time needed to cook (X=time in ticks (1/20 seconds))
 * `/scoreboard players set #max btc.carcTimer X` set how long it takes fo carcasses to be removed (X=time in ticks)
 * `/scoreboard players set #max btc.ray.timer X` set how far ray tracing is computed (X=distance in 1/2 blocks)
+
 ## Details
 this sections contains details on the features
 ### carcasses
@@ -36,9 +37,20 @@ this sections contains details on the features
  * Do not right click a carcass with a helemet in hand as you will loose it
  * Dropping a carcass will place it down
  * You can use a carcass as a shield, it will remain usable even after taking hits
+ * Raw carcasses will be destroyed after some time (see below)
 ### cooking
 * This is the structure for campfires:
-
 ![](https://github.com/Breakmit/Datapacks/blob/master/Butching/examples/campfire.png) 
 * To cook something, you need to right click between the upper fences
+* If you cant place a carcass on the campfire, try breaking and replacing it. Campfire placement is handled using ray tracing and because of client-server async and the fact that functions are not computed at the same time as block placing, you can move between when you place the block and when the ray tracing starts
+* Campfires placed before installing the pack or not placed by a player can't be used
 ### butching table
+* To create a butching table, place an item frame with a Smooth Stone Slab in it on the top of a crafting table
+* Right click the item frame with a carcass in hand to place it
+* You can now right click (the item frame) 3 times with different tools to get ressources, the first click will drop leather, the second one meat and the last on bones. Here is a table of the ressources:
+
+  |axe|sword|shears
+--|---|-----|----- 
+1st:leather|wrong tool: a few|ok tool: some|right tool: a lot
+2nd:meat|ok tool: some|right tool: a lot|ok tool: some
+3rd:bones|right tool: a lot|ok tool: some|wrong tool: none
