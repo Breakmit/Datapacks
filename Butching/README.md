@@ -23,7 +23,7 @@ This datapack provides an alternative system for meat in minecraft
 * Go to the Advancement tab, you should see a tab called <Installed Datapacks> with an advancement for the pack
 * Set your language to "English (US)" (unless you want your items to be called "item.breakmit.butcher.carcass.name)
 ### Uninstalling
-  * __IMORTANT: CHANGING THE DATAPACK FOLDER'S NAME BREAKS THE UNINSTALL FUNCTIONS__
+  * __IMORTANT: CHANGING THE DATAPACK FOLDER'S NAME BREAKS THE UNINSTALL FUNCTIONS, IF YOU UNZIP THE PACK, CHANGE THE NAME OF THE FOLDER TO "butcher.zip"__
   
 There 2 ways of uninstalling the datapack:
 * ```/function breakmit:butcher/uninstall``` to remove the scoreboards, then stop the pack. Use this if you will use the pack again.
