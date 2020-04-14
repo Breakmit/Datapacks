@@ -35,6 +35,7 @@ this sections contains details on the features
  * You can use a carcass as a shield, it will remain usable even after taking hits
 ### cooking
 * This is the structure for campfires:
+
 ![](https://github.com/Breakmit/Datapacks/blob/master/Butching/examples/campfire.png) 
 * To cook something, you need to right click between the upper fences
 ### butching table
