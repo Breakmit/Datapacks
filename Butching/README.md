@@ -24,6 +24,7 @@ This datapack provides an alternative system for meat in minecraft
 * Set your language to "English (US)" (unless you want your items to be called "item.breakmit.butcher.carcass.name)
 ### Uninstalling
   * __IMORTANT: CHANGING THE DATAPACK FOLDER'S NAME BREAKS THE UNINSTALL FUNCTIONS__
+  
 There 2 ways of uninstalling the datapack:
 * ```/function breakmit:butcher/uninstall``` to remove the scoreboards, then stop the pack. Use this if you will use the pack again.
 * ```/function breabmit:butcher/uninstall_full``` to remove the scoreboards and all entities, then stop the pack. Use this if you wont use the pack anymore
