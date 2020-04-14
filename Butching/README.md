@@ -24,10 +24,7 @@ This datapack provides an alternative system for meat in minecraft.
 
 ### Uninstalling
 you have 2 ways of uninstalling the datapack:
-* ```
-/function breakmit:butcher/uninstall
-``` to remove the scoreboards, then stop the pack. Use this if you will use the pack again.
-* ```
-/function breabmit:butcher/uninstall_full
-``` to remove the scoreboards and all entities, then stop the pack. Use this if you wont use the pack anymore
+* 
+```/function breakmit:butcher/uninstall``` to remove the scoreboards, then stop the pack. Use this if you will use the pack again.
+* ```/function breabmit:butcher/uninstall_full``` to remove the scoreboards and all entities, then stop the pack. Use this if you wont use the pack anymore
 ## Details
