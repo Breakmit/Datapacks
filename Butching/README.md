@@ -50,7 +50,7 @@ this sections contains details on the features
 * Right click the item frame with a carcass in hand to place it
 * You can now right click (the item frame) 3 times with different tools to get ressources, the first click will drop leather, the second one meat and the last on bones. Here is a table of the ressources:
 
-\|axe|sword|shears
+/|axe|sword|shears
 --|---|-----|----- 
 1st:leather|wrong tool: a few|ok tool: some|right tool: a lot
 2nd:meat|ok tool: some|right tool: a lot|ok tool: some
