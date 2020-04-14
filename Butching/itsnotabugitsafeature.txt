@@ -1,0 +1,5 @@
+-turns out shields can be used
+-carcasses have the tag that makes item turn into dead bodies
+-armor stands have annoyingly small hitboxes -> you need multiple attemps to get carcassees
+-item names are displayed
+-unused tags are 100% for compatibility
