@@ -20,6 +20,7 @@ This datapack provides an alternative system for meat in minecraft
 * Download the ressource pack and place it inside your ressourcepack folder (no need to unzip)
 * Install the ressource pack and reload your world
 * Go to the Advancement tab, you should see a tab called <Installed Datapacks> with an advancement for the pack
+* Set your language to "English (US)" (unless you want your items to be called "item.breakmit.butcher.carcass.name)
 ### Uninstalling
 There 2 ways of uninstalling the datapack:
 * ```/function breakmit:butcher/uninstall``` to remove the scoreboards, then stop the pack. Use this if you will use the pack again.
