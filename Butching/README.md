@@ -15,17 +15,17 @@ This datapack provides an alternative system for meat in minecraft.
 * once you have a butching table, you can place a carcass on it and collect ressources from it by right-clicking it with a tool
 
 ## Installation
-
 ### Installing
 * download the datapack and place it inside the datapack folder of your world (no need to unzip)
 * download the ressource pack and place it inside your ressourcepack folder (no need to unzip)
 * install the ressource pack and do /reload
 * go to the Advancement tab, you should see a tab called <Installed Datapacks> with an advancement for the pack
-
 ### Uninstalling
 you have 2 ways of uninstalling the datapack:
 * ```/function breakmit:butcher/uninstall``` to remove the scoreboards, then stop the pack. Use this if you will use the pack again.
 * ```/function breabmit:butcher/uninstall_full``` to remove the scoreboards and all entities, then stop the pack. Use this if you wont use the pack anymore
+
+
 ## Details
 this sections contains details on the features
 ### carcasses
