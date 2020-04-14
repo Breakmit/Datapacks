@@ -3,12 +3,13 @@
 This datapack provides an alternative system for meat in minecraft
 
 ## Features
-* Datapack for Minecraft 1.15.X
+* Datapack for Minecraft 1.15
 * Animals do not drop meat anyomre but lie dead on the floor, you can collect the body by right-clicking it. Currently included:
    * cows
    * pigs
    * sheeps (wool is still dropped on kill)
-   * bears, pandas, llamas and horses planned
+   * bears
+   * pandas, llamas and horses planned
 * Carcasses can be used as shields
 * You can cook a carcass by placing down a campfire with 2 fences on each side, then right clicking above the campfire
 * You can create a butching table by placing a smooth stone slab inside an item frame that is on a crafting table
