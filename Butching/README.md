@@ -16,9 +16,20 @@ This datapack provides an alternative system for meat in minecraft.
 
 ## Installation
 
+### Installing
 * download the datapack and place it inside the datapack folder of your world (no need to unzip)
 * download the ressource pack and place it inside your ressourcepack folder (no need to unzip)
 * install the ressource pack and do /reload
 * go to the Advancement tab, you should see a tab called <Installed Datapacks> with an advancement for the pack
 
-## Detailed features
+### Uninstalling
+you have 2 ways of uninstalling the datapack:
+```mcfunction
+/function breakmit:butcher/uninstall
+```
+to remove the scoreboards, then stop the pack. Use this if you will use the pack again.
+```mcfunction
+/function breabmit:butcher/uninstall_full
+```
+to remove the scoreboards and all entities, then stop the pack. Use this if you wont use the pack anymore
+## Details
