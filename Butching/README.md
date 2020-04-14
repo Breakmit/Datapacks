@@ -29,9 +29,11 @@ you have 2 ways of uninstalling the datapack:
 ## Details
 this sections contains details on the features
 ### carcasses
- *To take dead bodies, you need to right click just above them, in the middel of the model with nothing in your hand
+ * To take dead bodies, you need to right click just above them, in the middel of the model with nothing in your hand
  * Do not right click a carcass with a helemet in hand as you will loose it
  * Dropping a carcass will place it down
  * You can use a carcass as a shield, it will remain usable even after taking hits
 ### cooking
-* ![this is the structure to use to make a usable campfire:](https://github.com/Breakmit/Datapacks/blob/master/Butching/examples/campfire.png) 
+* This is the structure for campfires:![](https://github.com/Breakmit/Datapacks/blob/master/Butching/examples/campfire.png) 
+* To cook something, you need to right click between the upper fences
+### butching table
