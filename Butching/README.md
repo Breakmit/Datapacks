@@ -3,7 +3,7 @@
 This datapack provides an alternative system for meat in minecraft
 
 ## Features
-
+* Datapack for Minecraft 1.15.X
 * Animals do not drop meat anyomre but lie dead on the floor, you can collect the body by right-clicking it. Currently included:
    * cows
    * pigs
