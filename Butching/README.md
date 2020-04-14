@@ -48,10 +48,10 @@ this sections contains details on the features
 ### butching table
 * To create a butching table, place an item frame with a Smooth Stone Slab in it on the top of a crafting table
 * Right click the item frame with a carcass in hand to place it
-* You can now right click (the item frame) 3 times with different tools to get ressources, the first click will drop leather, the second one meat and the last on bones. Here is a table of the ressources:
+* You can now right click (the item frame) 3 times with different tools to get ressources, the first click will drop leather, the second one meat and the last on bones. Here is a table of the amount or ressources obtained with each ool:
 
 stage|axe|sword|shears
 --|---|-----|----- 
-1st:leather|wrong tool: a few|ok tool: some|right tool: a lot
-2nd:meat|ok tool: some|right tool: a lot|ok tool: some
-3rd:bones|right tool: a lot|ok tool: some|wrong tool: none
+1st: leather|wrong tool: a few|ok tool: some|right tool: a lot
+2nd: meat|ok tool: some|right tool: a lot|ok tool: some
+3rd: bones|right tool: a lot|ok tool: some|wrong tool: none
