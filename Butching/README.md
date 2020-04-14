@@ -26,9 +26,9 @@ you have 2 ways of uninstalling the datapack:
 * ```/function breabmit:butcher/uninstall_full``` to remove the scoreboards and all entities, then stop the pack. Use this if you wont use the pack anymore
 ### Configuration
 from the game, you can modify a few things with these functions:
-* </scoreboard players set #max btc.cook.timer X> set the time needed to cook (X=time in ticks (1/20 seconds))
-* </scoreboard players set #max btc.carcTimer X> set how long it takes fo carcasses to be removed (X=time in ticks)
-* </scoreboard players set #max btc.ray.timer X> set how far ray tracing is computed (X=distance in 1/2 blocks)
+* `/scoreboard players set #max btc.cook.timer X` set the time needed to cook (X=time in ticks (1/20 seconds))
+* `/scoreboard players set #max btc.carcTimer X` set how long it takes fo carcasses to be removed (X=time in ticks)
+* `/scoreboard players set #max btc.ray.timer X` set how far ray tracing is computed (X=distance in 1/2 blocks)
 ## Details
 this sections contains details on the features
 ### carcasses
