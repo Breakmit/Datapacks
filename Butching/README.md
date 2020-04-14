@@ -40,8 +40,8 @@ this sections contains details on the features
  * Raw carcasses will be destroyed after some time (see below)
 ### cooking
 * This is the structure for campfires:
-![](https://github.com/Breakmit/Datapacks/blob/master/Butching/examples/campfire.png)
 
+![](https://github.com/Breakmit/Datapacks/blob/master/Butching/examples/campfire.png)
 
 * To cook something, you need to right click between the upper fences
 * If you cant place a carcass on the campfire, try breaking and replacing it. Campfire placement is handled using ray tracing and because of client-server async and the fact that functions are not computed at the same time as block placing, you can move between when you place the block and when the ray tracing starts
