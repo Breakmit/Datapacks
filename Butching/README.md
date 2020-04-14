@@ -40,7 +40,8 @@ this sections contains details on the features
  * Raw carcasses will be destroyed after some time (see below)
 ### cooking
 * This is the structure for campfires:
-![](https://github.com/Breakmit/Datapacks/blob/master/Butching/examples/campfire.png) 
+![](https://github.com/Breakmit/Datapacks/blob/master/Butching/examples/campfire.png)
+
 * To cook something, you need to right click between the upper fences
 * If you cant place a carcass on the campfire, try breaking and replacing it. Campfire placement is handled using ray tracing and because of client-server async and the fact that functions are not computed at the same time as block placing, you can move between when you place the block and when the ray tracing starts
 * Campfires placed before installing the pack or not placed by a player can't be used
@@ -49,7 +50,7 @@ this sections contains details on the features
 * Right click the item frame with a carcass in hand to place it
 * You can now right click (the item frame) 3 times with different tools to get ressources, the first click will drop leather, the second one meat and the last on bones. Here is a table of the ressources:
 
-  |axe|sword|shears
+\|axe|sword|shears
 --|---|-----|----- 
 1st:leather|wrong tool: a few|ok tool: some|right tool: a lot
 2nd:meat|ok tool: some|right tool: a lot|ok tool: some
