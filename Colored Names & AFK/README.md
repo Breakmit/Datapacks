@@ -31,7 +31,11 @@ Here are the different options
 
 Performance:
 
-tick (20/s): 0 functions
-schedule:
-  -every 10s: up to 41+16*(nbPlayers)+16*(canColor players) commands, 0 nbt access, 0 @e, 2 @a
-  -every 01s: up to 12+16*(nbPlayers) (if all players go afk at the same time, will be 12 most times), 6*(nbPlayers) nbt access, 0 @e 12 @a
+* every 10s:
+  * up to 41+32*(nbPlayers) commands
+  * 0 nbt access
+  * 0 @e
+* every 1s
+  * up to 12+16*(Players going AFK)
+  * 6*(nbPlayers) nbt access
+  * 0 @e
