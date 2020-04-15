@@ -1,6 +1,6 @@
 # Butching Datapack
 
-This datapack provides an alternative system for meat in minecraft
+This datapack made for the second datapacking jam of the MC Datapacks server provides an alternative system for meat in minecraft
 
 ## Features
 * Datapack for Minecraft 1.15
