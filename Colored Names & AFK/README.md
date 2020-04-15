@@ -32,10 +32,10 @@ Here are the different options
 Performance:
 
 * every 10s:
-  * up to 41+32*(nbPlayers) commands
-  * 0 nbt access
-  * 0 @e
+  * `commands`: up to 41+32*(Players)
+  * `NBT access`: 0
+  * `@e`: 0
 * every 1s
-  * up to 12+16*(Players going AFK)
-  * 6*(nbPlayers) nbt access
-  * 0 @e
+  * `commands`: 12+16*(Players going AFK)
+  * `NBT access`: 6*(Players)
+  * `@e`: 0
