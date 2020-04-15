@@ -13,7 +13,7 @@ This datapack for servers combines an AFK display system and colored names, all 
 * Place it in your datapack folder
 * Reload your world
 
-## COnfiguration
+## Configuration
 To modify permissions, the datapack needs to be unzipped. All the configuration is done in `data/caa/functions/admin_config.mcfunction`.
 Here are the different options
 * `scoreboard players set playersColor caa.values 1`
